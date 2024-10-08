@@ -26,12 +26,12 @@ Aprende como usar Markdown, un lenguaje de marcado super útil que te permitirá
 
 1. Haz un [**fork**](https://github.com/aleepsy/Learn-Live-GitHub-Universe/fork) de este repositorio y coloca el nombre que gustes.
 2. Cuando hayas creado el fork, puedes editarlo de la siguiente manera:
-   - **Clonar** el repositorio:
+   - a) **Clonar** el repositorio:
      1. Selecciona una carpeta en tu computadora y ejecuta este comando: `git clone url_de_tu_repo`
      2. Entra a la carpeta creada con el mismo nombre de tu repositorio.
-   - Usar **github.dev**:
+   - b) Usar **github.dev**:
      1. En la raíz de tu repositorio, presiona la tecla:  `.`.
-
+3. Dirígete al archivo [Tips.md](./Reto/Tips.md)
 
 ## Oradores
 
