@@ -20,6 +20,10 @@ Aprende como usar Markdown, un lenguaje de marcado super útil que te permitirá
 - Usa la opcion especial de perfil de GitHub para resaltar tu cuenta
 
 ## Reto
+
+> [!TIP]
+> Para abrir enlaces te recomendamos presionar la tecla **[CTRL]** y, sin soltar, dar clic en el enlace. Esto abrirá los enlaces en una nueva pestaña en tu navegador.
+
 1. Haz un [**fork**](https://github.com/aleepsy/Learn-Live-GitHub-Universe/fork) de este repositorio y coloca el nombre que gustes.
 2. Cuando hayas creado el fork, puedes editarlo de la siguiente manera:
    - **Clonar** el repositorio:
