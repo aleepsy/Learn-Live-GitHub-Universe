@@ -6,7 +6,7 @@ Al final de esta serie, deberías tener repositorios valiosos que demuestren tu 
 
 <!-- ADD IMAGES -->
 <p align="center">
-<img src="https://github.com/user-attachments/assets/84955561-5ca3-4046-8155-2c8518d827b0#center" alt="Description" width="650" height="650">  
+<img src="https://github.com/user-attachments/assets/84955561-5ca3-4046-8155-2c8518d827b0#center" alt="Description" width="500" height="500">  
 </p>
 <!-- ADD IMAGES END -->
 
