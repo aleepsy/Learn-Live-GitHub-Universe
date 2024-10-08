@@ -19,7 +19,17 @@ Aprende como usar Markdown, un lenguaje de marcado super útil que te permitirá
 - Crea READMEs impactantes con Markdown
 - Usa la opcion especial de perfil de GitHub para resaltar tu cuenta
 
+## Reto
+1. Haz un [**fork**](https://github.com/aleepsy/Learn-Live-GitHub-Universe/fork) de este repositorio y coloca el nombre que gustes.
+2. Cuando hayas creado el fork, puedes editarlo de la siguiente manera:
+   - **Clonar** el repositorio:
+     1. Selecciona una carpeta en tu computadora y ejecuta este comando: `git clone url_de_tu_repo`
+     2. Entra a la carpeta creada con el mismo nombre de tu repositorio.
+   - Usar **github.dev**:
+     1. En la raíz de tu repositorio, presiona la tecla:  `.`.
+
+
 ## Oradores
 
-- Alejandra Pérez - [aleepsy](https://github.com/aleepsy)
-- Manuel Ortiz - [manuosmx](https://github.com/ManuOSMx)
+- Alejandra Pérez - [@aleepsy](https://github.com/aleepsy)
+- Manuel Ortiz - [@manuosmx](https://github.com/ManuOSMx)
