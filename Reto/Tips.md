@@ -17,6 +17,14 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
+```bash
+#!/bin/bash
+source variables.sh
 
+curl -H "Authorization: Bearer $GH_TOKEN" \
+-H "Accept: application/vnd.github+json" \
+"https://api.github.com/users/$GH_USERNAME/packages/container/$GH_IMAGE_NAME/versions"
+
+```
 
 <!-- Sección de tips - FIN -->
