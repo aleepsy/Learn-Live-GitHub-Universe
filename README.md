@@ -24,7 +24,9 @@ Aprende como usar Markdown, un lenguaje de marcado super útil que te permitirá
 > [!TIP]
 > Para abrir enlaces te recomendamos presionar la tecla **[CTRL]** y, sin soltar, dar clic en el enlace. Esto abrirá los enlaces en una nueva pestaña en tu navegador.
 
-1. Haz un [**fork**](https://github.com/aleepsy/Learn-Live-GitHub-Universe/fork) de este repositorio y coloca el nombre que gustes.
+[![**fork**](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/aleepsy/Learn-Live-GitHub-Universe/fork)
+
+1. Haz clic en el boton de arriba para hacer **Fork** de este repositorio. En la nueva página coloca el nombre que gustes al repositorio.
 2. Cuando hayas creado el fork, puedes editarlo de la siguiente manera:
    - a) **Clonar** el repositorio:
      1. Selecciona una carpeta en tu computadora y ejecuta este comando: `git clone url_de_tu_repo`
@@ -32,6 +34,12 @@ Aprende como usar Markdown, un lenguaje de marcado super útil que te permitirá
    - b) Usar **github.dev**:
      1. En la raíz de tu repositorio, presiona la tecla:  `.`.
 3. Dirígete al archivo [Tips.md](./Reto/Tips.md)
+4. En el archivo de [Tips.md](./Reto/Tips.md), copia el tip de ejemplo y pegalo justo debajo. Van a agregar un Tip que les darías a las demas personas para mejorar su estilo en el README.
+5. Crea un Pull Request **(PR)** y coloca en el titulo `He agregado mi tip - Tu Nombre`
+6. Manda tu **PR**.
+
+### ¡Muchas felicidades!
+Haz creado una nueva contribucion en GitHub para ayudar a mas personas a usar el Markdown en sus archivos **README.md**
 
 ## Oradores
 
