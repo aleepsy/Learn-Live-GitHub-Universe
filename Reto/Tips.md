@@ -17,6 +17,6 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
-
+> Este es el tip de Abdias Alpire !!! Viva Bolivia 🦙
 
 <!-- Sección de tips - FIN -->
