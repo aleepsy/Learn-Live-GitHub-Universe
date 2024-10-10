@@ -17,6 +17,18 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
+Luis Marin
+
+> [!TIP]
+> Si en typescript extiendes alguna propiedad global que no exista puedes declararla para que el editor la reconozca como parte de globalThis:
+
+```typescript
+declare global {
+  var commands: Commands;
+}
+
+globalThis.commands = commands;
+```
 
 
 <!-- Sección de tips - FIN -->
