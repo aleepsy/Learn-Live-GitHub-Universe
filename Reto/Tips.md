@@ -17,6 +17,6 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
-
+Siempre tener una rama "segura" o "principal" que siempre sea la fuente de la verdad, y cualquier cambio hacerlo derivando de esa rama, de esa manera evitas accidentes o errores humanos. - @jonaspm
 
 <!-- Sección de tips - FIN -->
