@@ -7,6 +7,9 @@ Alejandra Pérez
 
 > [!TIP]
 > Resalta algún snippet de código de la siguiente forma, escribe tu código dentro de comillas invertidas (```):
+> [!TIP]
+> No te frustres al empezar haciendo tu primer README!, usa palabras en primera persona y emplea ingles tecnico si es en documentacion si es para hacer tu propio README de usuario deja tu imaginacion volar y pon que usas Arch 󰣇 y usa nerd fonts https://www.nerdfonts.com/
+
 
 ```py
 print("Hello, world!")
