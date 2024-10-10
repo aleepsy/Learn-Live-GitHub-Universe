@@ -20,3 +20,6 @@ for i in range(10):
 
 
 <!-- Sección de tips - FIN -->
+
+> [!TIP]
+> Al inicio puede ser un poco complicado el entender pero ayuda mucho el practicar mucho de poco a poco te irás acostumbrando y le entenderás. No es tan difícil como parece al inicio.
