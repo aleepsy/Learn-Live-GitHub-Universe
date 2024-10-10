@@ -16,7 +16,10 @@ for i in range(10):
 
 
 <!-- Sección de tips -->
+> [!TIP]
+> Añade información de licencia en una sección:
 
-
-
+```html
+<p>This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.</p>
+```
 <!-- Sección de tips - FIN -->
