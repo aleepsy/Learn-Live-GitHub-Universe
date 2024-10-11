@@ -16,7 +16,11 @@ for i in range(10):
 
 
 <!-- Sección de tips -->
+> [!TIP]
+> Para crear tablas puedes usar los pipes y los guiones(| HEADER | DESCRIPTION):
 
-
+| Nombre | Pais |
+| ----------- | ----------- |
+| Fernando | México |
 
 <!-- Sección de tips - FIN -->
