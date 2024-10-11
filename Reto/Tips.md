@@ -16,7 +16,17 @@ for i in range(10):
 
 
 <!-- Sección de tips -->
+## Usar Static Badges
 
+Puedes agregarlos a los README de GitHub u otras páginas web. Son muy personalizables y le dan un plus a tu perfil.
 
+Un caso de uso, pueder ser para listar nuestros conocimientos en alguna tecnología, framework, etc., por ejemplo:
 
+[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=363636)](https://github.com/)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=FBBA00)]()
+
+Puedes revisar la documentación y como usarlo en [Shields.io](https://shields.io/).
+
+Contribución de [Angel Lucero](https://github.com/angelluce).
 <!-- Sección de tips - FIN -->
