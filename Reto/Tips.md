@@ -17,6 +17,13 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
+Jhonatan Mendoza Sulcaray
 
+> [!TIP]
+> Usa imágenes en Markdown para hacer tu README más atractivo visualmente.
+
+`
+```markdown
+![Logo del Proyecto](https://ejemplo.com/logo.png)
 
 <!-- Sección de tips - FIN -->
