@@ -17,6 +17,10 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
+> [!TIP]
+> Para convertir rápidamente una URL o dirección de correo electrónico en un enlace, puedes encerrarlo entre corchetes angulares.
 
+<https://www.markdownguide.org>
+<fake@example.com>
 
 <!-- Sección de tips - FIN -->
