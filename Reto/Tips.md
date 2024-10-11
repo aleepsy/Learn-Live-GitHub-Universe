@@ -17,6 +17,16 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
+Andre
 
+> [!TIP] 
+> Mantén tu README limpio y estructurado. Usa encabezados para organizar la información y hacerla fácil de leer.
+
+```md
+# Nombre del Proyecto
+
+## Descripción
+Una breve descripción de lo que hace tu proyecto.
+```
 
 <!-- Sección de tips - FIN -->
