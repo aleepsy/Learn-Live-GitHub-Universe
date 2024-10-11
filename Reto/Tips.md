@@ -17,6 +17,11 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
-
+```
+Usar una buena paleta de colores
+```
+```
+agradable visualmente y a la vez eficaz
+```
 
 <!-- Sección de tips - FIN -->
