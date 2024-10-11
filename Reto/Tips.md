@@ -16,7 +16,11 @@ for i in range(10):
 
 
 <!-- Sección de tips -->
-
+```js
+function hola() {
+    console.log("Hola GitHub!!!");
+}
+```
 
 
 <!-- Sección de tips - FIN -->
