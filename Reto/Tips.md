@@ -17,6 +17,30 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
+Richard Rivero 
 
+>[!TIP]
+> Este snippets es ideal para la creacion de tablas, este es un ejemplo se como se crean en markdown 
+
+# Tables
+
+```
+Los dos puntos se pueden utilizar para alinear columnas.
+
+| Tables        | son           | bonitas  |
+| ------------- |:-------------:| --------:|
+| la columna 3  | alineado      | $2330    |
+| la columna 2  | centrado      |   $20    |
+| lineas punt.  |               |    $9    |
+
+Debe haber al menos 3 guiones separando cada celda del encabezado.
+Las separaciones exteriores (|) Nota.. no me acuerdo como se llama este simbolo (|) son opcionales y no es necesario realizarlos
+La línea Markdown cruda se alinea muy bien. También puede utilizar Markdown en línea.
+```
+| Tables        | son           | bonitas  |
+| ------------- |:-------------:| --------:|
+| la columna 3  | alineado      | $2330    |
+| la columna 2  | centrado      |   $20    |
+| lineas punt.  |               |    $9    |
 
 <!-- Sección de tips - FIN -->
