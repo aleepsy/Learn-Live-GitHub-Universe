@@ -17,6 +17,10 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
+Guadalupe Quintal
+> [!TIP]
+> Puedes consultar el siguiente repositorio para agregar Badges a tu Readme de presentación:
+
 
 
 <!-- Sección de tips - FIN -->
