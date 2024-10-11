@@ -17,7 +17,7 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
-Cristian Rincón @cristian-rincon
+Cristian Rincón [@cristian-rincon](github.com/cristian-rincon)
 
 > [!TIP] 
 > Utiliza tablas para estructurar y presentar información de manera clara.
