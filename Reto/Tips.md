@@ -17,6 +17,18 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
+Gabriel Menacho
 
+> [!TIP]
+> Un archivo README puede incluir información como: 
+
+- Descripción del proyecto 
+- Tabla de contenidos 
+- Ejemplos del proyecto 
+- Características principales 
+- Cómo instalar y ejecutar el proyecto 
+- Cómo se creó el proyecto 
+- Recursos útiles 
+- Licencia
 
 <!-- Sección de tips - FIN -->
