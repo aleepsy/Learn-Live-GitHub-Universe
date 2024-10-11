@@ -19,8 +19,6 @@ for i in range(10):
 
 Guadalupe Quintal
 > [!TIP]
-> Puedes consultar el siguiente repositorio para agregar Badges a tu Readme de presentación:
-
-
+> Puedes consultar el siguiente repositorio para agregar Badges a tu Readme de presentación: (https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 <!-- Sección de tips - FIN -->
