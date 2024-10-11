@@ -15,8 +15,8 @@ for i in range(10):
 ```
 
 
-<!-- Sección de tips -->
+JoshCobra
 
+> [!TIP]
+> El mejor tip de todos, que va a hacer que tu perfil de verdad **Resalte** [Aqui](https://gprm.itsvg.in/) Para que puedas tener tus stats y mas cosas
 
-
-<!-- Sección de tips - FIN -->
