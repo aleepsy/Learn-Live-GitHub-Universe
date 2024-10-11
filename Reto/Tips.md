@@ -14,7 +14,16 @@ for i in range(10):
     print(i)
 ```
 
+Fabio Maculus
 
+> [!TIP]
+> Complete el paso la clase #1 dejo mi tip, conectemos en linkedin <a href="https://www.linkedin.com/in/fabio-maculus-data-analyst/"> (```):
+
+```py
+print("Hello, world!")
+for i in range(10):
+    print(i)
+```
 <!-- Sección de tips -->
 
 
