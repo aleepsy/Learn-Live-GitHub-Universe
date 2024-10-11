@@ -16,7 +16,17 @@ for i in range(10):
 
 
 <!-- Sección de tips -->
+Sebastián Toro
 
+> [!TIP]
+> Puedes agregar enlaces a un README usando [_Nombre del sitio_] y (*Enlace al sitio*) de la siguiente forma:
+
+```py
+[GitHub - Sebastiantg](https://github.com/Sebastiantg)
+```
+> Y queda de la siguiente forma
+
+[GitHub - Sebastiantg](https://github.com/Sebastiantg)
 
 
 <!-- Sección de tips - FIN -->
