@@ -14,6 +14,12 @@ for i in range(10):
     print(i)
 ```
 
+> [!TIP] **Mantenimiento del orden en proyectos**
+>  
+> 1. **Usa sabiamente los encabezados:** Utiliza los `#` para organizar tus secciones. Visualiza constantemente el diagrama de esquema para asegurarte que el orden es claro.
+> 2. **Estructura de archivos y carpetas:** Explica cómo está organizada la estructura de tu proyecto para que sea fácil de entender por cualquier compañero.
+
+
 
 <!-- Sección de tips -->
 
