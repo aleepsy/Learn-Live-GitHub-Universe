@@ -16,7 +16,10 @@ for i in range(10):
 
 
 <!-- Sección de tips -->
+Dejo por aqui un pequeño snippet para hacer anclajes (links) con markdowns de GitHub, espero lo disfruten :D
 
-
+[Google](www.google.com)
+[YouTube](https://www.youtube.com/)
+[Learn Live GitHub Universe](https://techcommunity.microsoft.com/t5/microsoft-developer-community/certif%C3%ADcate-con-learn-live-github-universe-en-espa%C3%B1ol/ba-p/4244810)
 
 <!-- Sección de tips - FIN -->
