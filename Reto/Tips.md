@@ -17,6 +17,9 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
+> [!TIP]
+> Agrega enlaces con ```[texto](URL)``` : [Visita mi canal de Youtube](https://www.youtube.com/)
+
 
 
 <!-- Sección de tips - FIN -->
