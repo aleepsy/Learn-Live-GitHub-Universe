@@ -17,6 +17,9 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
+> [!TIP]
+> Puedes agregar emojies dentro de un archivo markdown
 
+🌱 🎉 ✏️
 
 <!-- Sección de tips - FIN -->
