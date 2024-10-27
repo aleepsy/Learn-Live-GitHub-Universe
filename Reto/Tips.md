@@ -16,7 +16,18 @@ for i in range(10):
 
 
 <!-- Sección de tips -->
+Benjamín Alexander Salas
 
+> [!TIP]
+> Se puede agregar un índice automático con([[_TOC_]]):
+```
+[[_TOC_]]
+## Primera sección 
+## Segunda sección 
+```
 
+[[_TOC_]]
+## Primera sección 
+## Segunda sección 
 
 <!-- Sección de tips - FIN -->
