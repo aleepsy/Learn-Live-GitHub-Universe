@@ -8,6 +8,7 @@ Alejandra Pérez
 > [!TIP]
 > Resalta algún snippet de código de la siguiente forma, escribe tu código dentro de comillas invertidas (```):
 
+
 ```py
 print("Hello, world!")
 for i in range(10):
@@ -17,6 +18,7 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
-
+> [!TIP]
+> Coloca alguna imagen representativa para dar mas personalidad
 
 <!-- Sección de tips - FIN -->
