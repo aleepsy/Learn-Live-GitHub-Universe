@@ -17,12 +17,26 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
+Luis Marin
+
+> [!TIP]
+> Si en typescript extiendes alguna propiedad global que no exista puedes declararla para que el editor la reconozca como parte de globalThis:
+
+```typescript
+declare global {
+  var commands: Commands;
+}
+
+globalThis.commands = commands;
+```
 
 
 <!-- Sección de tips - FIN -->
 
-## Agregar grafica de stats
-Para agregar una grafica con los stats actualizados de tu perfil de github, podemos usar [Este repo](https://github.com/anuraghazra/github-readme-stats) por Anurag Hazra. Esta super cool para darle un toque extra a tu perfil
+Juan Angulo
 
-## Generador de perfiles de github con markdown
-Si quieres un approach mas user friendly o no se te ocurre mucho que colocar, puedes usar un generador como [este](https://rahuldkjain.github.io/gh-profile-readme-generator/), donde basicamente completas con tu informacion y te da el codigo markdown para pegar en tu perfil!
+> [!TIP]
+> Para agregar una grafica con los stats actualizados de tu perfil de github, podemos usar [Este repo](https://github.com/anuraghazra/github-readme-stats) por Anurag Hazra. Esta super cool para darle un toque extra a tu perfil
+
+> [!TIP]
+> Si quieres un approach mas user friendly o no se te ocurre mucho que colocar, puedes usar un generador como [este](https://rahuldkjain.github.io/gh-profile-readme-generator/), donde basicamente completas con tu informacion y te da el codigo markdown para pegar en tu perfil!
