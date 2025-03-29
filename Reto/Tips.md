@@ -7,6 +7,8 @@ Alejandra Pérez
 
 > [!TIP]
 > Resalta algún snippet de código de la siguiente forma, escribe tu código dentro de comillas invertidas (```):
+> Escribir los titulos utilizando los # para organizar mejor el README (```):
+
 
 ```py
 print("Hello, world!")
