@@ -138,3 +138,11 @@ Juan Leon 🇨🇴
 
 
 <!-- Sección de tips - FIN -->
+
+Juan Angulo
+
+> [!TIP]
+> Para agregar una grafica con los stats actualizados de tu perfil de github, podemos usar [Este repo](https://github.com/anuraghazra/github-readme-stats) por Anurag Hazra. Esta super cool para darle un toque extra a tu perfil
+
+> [!TIP]
+> Si quieres un approach mas user friendly o no se te ocurre mucho que colocar, puedes usar un generador como [este](https://rahuldkjain.github.io/gh-profile-readme-generator/), donde basicamente completas con tu informacion y te da el codigo markdown para pegar en tu perfil!
